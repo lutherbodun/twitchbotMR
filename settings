@@ -1,0 +1,5 @@
+{
+    "channel" : "#username of channel bot will be on",
+    "username" : "username of bot",
+    "password" : "oauth token"
+}
