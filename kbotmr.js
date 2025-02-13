@@ -19,7 +19,7 @@ client.connect().catch(console.error);
 
 // Log when the Bot Connects
 client.on('connected',() => {
-    client.say(channel, 'Kbotmr has connected!');
+    client.say(channel, 'bot has connected!');
 });
 
 // Handle messages
